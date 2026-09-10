@@ -135,17 +135,3 @@ Contributions, issues, and feature requests are welcome!
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-<div align="center">
-
-## 🙋 Author
-
-**Your Name**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>)
-
-### ⭐ If you found this project useful, consider giving it a star!
-
-</div>
