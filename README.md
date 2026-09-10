@@ -7,7 +7,6 @@
 A clean, modern web app for students to log subjects, credits, and grades — and instantly see their SGPA, overall CGPA, and semester-by-semester trend.
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://cgpa-calculator-pgzjdgmdtuxhhuprvppvyt.streamlit.app)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Made with React](https://img.shields.io/badge/frontend-React%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Made with Python](https://img.shields.io/badge/backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
@@ -17,14 +16,15 @@ A clean, modern web app for students to log subjects, credits, and grades — an
 
 ---
 
-## 📸 Preview
+## 🔍 At a Glance
 
 <div align="center">
-<!-- Replace with your own screenshots -->
-<img src="./screenshots/dashboard.png" width="80%" alt="CGPA Calculator Dashboard" />
-</div>
 
-> 💡 Add screenshots to a `/screenshots` folder in your repo and update the paths above for the best first impression.
+| Overall CGPA | Total Credits | Semester Tracking | Trend Insights |
+|:---:|:---:|:---:|:---:|
+| Auto-calculated | Live running total | Unlimited semesters | Visual SGPA graph |
+
+</div>
 
 ---
 
@@ -101,7 +101,6 @@ CGPA-Calculator/
 │   └── cgpa-calculator/     # Frontend app (React + Vite)
 ├── app.py                   # Streamlit entry point
 ├── requirements.txt         # Python dependencies
-├── screenshots/             # App preview images
 └── README.md
 ```
 
@@ -136,12 +135,6 @@ Contributions, issues, and feature requests are welcome!
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
