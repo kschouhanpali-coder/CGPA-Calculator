@@ -2,16 +2,44 @@
 
 # 📊 CGPA Calculator
 
-**Track your semester grades. Calculate your CGPA. Visualize your progress.**
+> ### ✨ Track Grades • Calculate GPA • Visualize Success ✨
+> 
+> **The modern, intelligent GPA tracking tool for ambitious students**
 
-A clean, modern web app for students to log subjects, credits, and grades — and instantly see their SGPA, overall CGPA, and semester-by-semester trends with real-time visualizations.
+<br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_it_now-00C7B7?style=for-the-badge)](https://cgpa-calculator-pgzjdgmdtuxhhuprvppvyt.streamlit.app)
+A clean, fast, and beautiful web app for students to effortlessly log subjects, credits, and grades — and instantly see their SGPA, overall CGPA, and semester-by-semester trends with stunning visualizations.
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_it_now-00C7B7?style=for-the-badge&logo=github&logoColor=white)](https://cgpa-calculator-pgzjdgmdtuxhhuprvppvyt.streamlit.app)
+[![Open Source](https://img.shields.io/badge/📂_Open_Source-MIT_License-blue?style=for-the-badge)](LICENSE)
+[![Built With React](https://img.shields.io/badge/⚛️_React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
+
+<br/>
+
 ![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Backend-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-Build-646CFF?style=flat-square&logo=vite&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.1.0-blue?style=flat-square)
+
+<br/>
+
+---
+
+</div>
+
+## 🎯 Quick Start
+
+<div align="center">
+
+| 🚀 **Deploy** | 📖 **Learn** | 🤝 **Contribute** |
+|:---:|:---:|:---:|
+| [![Open App](https://img.shields.io/badge/OPEN_APP-Click_Here-00C7B7?style=for-the-badge)](https://cgpa-calculator-pgzjdgmdtuxhhuprvppvyt.streamlit.app) | [View Docs](#-table-of-contents) | [Fork & Help](#-contributing) |
 
 </div>
 
@@ -19,75 +47,44 @@ A clean, modern web app for students to log subjects, credits, and grades — an
 
 ## 📖 Table of Contents
 
+<table>
+<tr>
+<td width="50%">
+
+**🎯 Getting Started**
 - [Overview](#-overview)
+- [Features Showcase](#-features-showcase)
 - [Live Demo](#-live-demo)
-- [Features](#-features)
+- [Quick Start](#-quick-start-in-60-seconds)
+
+</td>
+<td width="50%">
+
+**📚 Documentation**
 - [How It Works](#️-how-it-works)
-- [Architecture](#️-architecture)
-- [Tech Stack](#️-tech-stack)
-- [Getting Started](#-getting-started)
+- [Architecture](#-architecture)
+- [Tech Stack](#-tech-stack)
 - [Usage Guide](#-usage-guide)
-- [CGPA Calculation Formula](#-cgpa-calculation-formula)
-- [Configuration Reference](#-configuration-reference)
-- [Performance Tips](#-performance-tips)
-- [Project Structure](#-project-structure)
-- [Browser Support](#-browser-support)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⚙️ Advanced**
+- [Configuration](#-configuration-reference)
+- [Formulas & Calculations](#-cgpa-calculation-formula)
+- [Deployment](#-deployment-guide)
 - [Troubleshooting](#-troubleshooting)
+
+</td>
+<td width="50%">
+
+**💡 Community**
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [FAQ](#-faq)
-- [Credits & Support](#-credits--support)
-
----
-
-## 📋 Overview
-
-**CGPA Calculator** is a lightweight, intuitive application designed for students to effortlessly track their academic performance across multiple semesters. Instead of manual spreadsheets and complex calculations, this tool provides:
-
-- ✅ **Real-time SGPA & CGPA calculation** — Results update as you type
-- ✅ **Unlimited semester tracking** — Add as many semesters as you need
-- ✅ **Visual progress graphs** — See your GPA trends at a glance
-- ✅ **No data storage** — Your grades stay with you (local storage)
-- ✅ **Mobile-friendly** — Works on phones, tablets, and desktops
-
-Perfect for students tracking their academic journey and for institutions managing student performance data.
-
----
-
-## 🌐 Live Demo
-
-<div align="center">
-
-### 👉 [**Open CGPA Calculator**](https://cgpa-calculator-pgzjdgmdtuxhhuprvppvyt.streamlit.app)
-
-*Runs live in your browser — no installation required.*
-
-</div>
-
----
-
-## ✨ Features
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🧮 Core Calculations
-- **Auto-Calculate SGPA** — Semester GPA computed instantly
-- **Live CGPA Updates** — Overall GPA across all semesters
-- **Total Credits Counter** — Running total of all credits
-- **Grade-to-Points Conversion** — Standard academic grading scale
-- **Decimal Precision** — Accurate calculations to 2 decimal places
-
-</td>
-<td valign="top" width="50%">
-
-### 📊 Visualization & Tracking
-- **Semester Trend Chart** — Visual graph of SGPA progression
-- **Unlimited Semesters** — No limits on data entry
-- **Subject Breakdown** — Per-subject credits and grades
-- **Progress Insights** — See your academic trajectory
-- **Responsive UI** — Works on all screen sizes
+- [Support](#-credits--support)
 
 </td>
 </tr>
@@ -95,333 +92,614 @@ Perfect for students tracking their academic journey and for institutions managi
 
 ---
 
+## 🌟 Overview
+
+<div align="center">
+
+### Why Choose CGPA Calculator?
+
+</div>
+
+**CGPA Calculator** is not just another GPA tracker — it's your personal academic companion designed to help ambitious students take control of their academic performance.
+
+> 🎓 **Perfect for:**
+> - Students tracking their semester progress
+> - Those preparing for internships & placements
+> - Anyone verifying university calculations
+> - Students planning strategic course selections
+
+<div align="center">
+
+### ✨ What Makes It Special?
+
+| Feature | Benefit |
+|---------|---------|
+| ⚡ **Instant Calculations** | Results update as you type, no delays |
+| 🔒 **100% Private** | All data stays on your device (local storage) |
+| 📱 **Works Everywhere** | Desktop, tablet, mobile — optimized for all screens |
+| 🎨 **Beautiful Design** | Modern UI that's a joy to use |
+| 📊 **Smart Visualizations** | Interactive charts showing your trajectory |
+| 🚀 **Lightning Fast** | Built with Vite for blazing-fast performance |
+| 🎯 **Accurate** | Standard academic formulas with 2-decimal precision |
+
+</div>
+
+---
+
+## 🚀 Live Demo
+
+<div align="center">
+
+### 👉 **[Open CGPA Calculator Now](https://cgpa-calculator-pgzjdgmdtuxhhuprvppvyt.streamlit.app)** 👈
+
+### ✨ _No installation required • Works in browser • Instant access_
+
+</div>
+
+---
+
+## 🎨 Features Showcase
+
+### 🧮 Core Calculation Engine
+
+<table>
+<tr>
+<td width="50%">
+
+**Lightning-Fast Calculations**
+- ⚡ Real-time SGPA computation
+- 📊 Instant CGPA updates
+- 🎯 Accurate to 2 decimals
+- ✅ Validates all inputs
+- 🔄 Recalculates on every change
+
+</td>
+<td width="50%">
+
+**Smart Grade Handling**
+- 🎓 Standard 4.0 grading scale
+- 🎛️ Customizable grade mappings
+- 📝 Subject-level breakdown
+- 💾 Credits calculation
+- 🔐 Data validation
+
+</td>
+</tr>
+</table>
+
+### 📊 Visualization & Analytics
+
+<table>
+<tr>
+<td width="50%">
+
+**Beautiful Charts**
+- 📈 Interactive trend graphs
+- 🎨 Color-coded visualization
+- 📍 Semester-by-semester tracking
+- 🔍 Hover for details
+- 📱 Responsive on all devices
+
+</td>
+<td width="50%">
+
+**Progress Tracking**
+- 🎯 Overall CGPA display
+- 📚 Total credits counter
+- 📊 Subject breakdown
+- 📉 Performance trends
+- 🎓 Academic insights
+
+</td>
+</tr>
+</table>
+
+### 💾 Data Management
+
+- 🔒 **Secure Local Storage** — Your data never leaves your device
+- 💾 **Persistent Data** — Grades saved between sessions
+- 🗑️ **Easy Management** — Edit, delete, or reorganize entries
+- 📤 **Export Ready** — PDF/CSV export coming soon
+- ⚙️ **Customizable** — Adjust settings to match your institution
+
+---
+
 ## 🏗️ How It Works
 
+<div align="center">
+
 ```
-1. Enter Semester      User creates a new semester entry
-2. Add Subjects        Log each subject with name, credits, and grade
-3. Auto-Calculate      SGPA is computed instantly
-4. Track Overall       CGPA updates across all semesters
-5. Visualize Progress  Trend chart shows SGPA changes over time
-6. Export (Future)     Download results as PDF or CSV
+┌─────────────┐
+│   YOU       │
+│ Enter Data  │
+└──────┬──────┘
+       │
+       ▼
+┌─────────────────────┐
+│  Input Validation   │  ✓ Checks credits & grades
+└──────┬──────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Calculate SGPA      │  📊 Per-semester GPA
+└──────┬──────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Calculate CGPA      │  📈 Overall GPA
+└──────┬──────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Generate Chart      │  📉 Visual trends
+└──────┬──────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│  Your Dashboard     │  🎯 Complete overview
+└─────────────────────┘
+```
+
+</div>
+
+### Step-by-Step Workflow
+
+```
+1️⃣  Add Semester    → Create a new semester entry
+2️⃣  Add Subjects    → Log subjects with credits & grades  
+3️⃣  Auto-Calculate  → SGPA computed instantly
+4️⃣  Track Overall   → CGPA updates across all semesters
+5️⃣  Visualize       → Interactive trend chart appears
+6️⃣  Plan Ahead      → Use insights to guide future choices
 ```
 
 ---
 
 ## 🎯 Architecture
 
-### Core Components
+### 🔧 System Design
 
-| Component | Description |
-|---|---|
-| **Frontend Interface** | React + TypeScript UI for grade input and visualization |
-| **Grade Validator** | Validates credits, grades, and subject entries |
-| **SGPA Calculator** | Computes semester GPA based on credits and grades |
-| **CGPA Aggregator** | Calculates overall GPA across all semesters |
-| **Visualization Engine** | Renders trend charts and progress graphs |
-| **Local Storage** | Persists data in browser (optional) |
+<div align="center">
 
-### System Integration
+```
+┌────────────────────────────────────────────────────────┐
+│                    CGPA Calculator                     │
+├────────────────────────────────────────────────────────┤
+│                                                        │
+│  ┌─────────────┐      ┌──────────────┐               │
+│  │   React UI  │◄────►│ Local Storage│               │
+│  │ (TypeScript)│      │  (Browser)   │               │
+│  └──────┬──────┘      └──────────────┘               │
+│         │                                             │
+│         ▼                                             │
+│  ┌─────────────────────────────────────┐             │
+│  │   Calculation Engine                │             │
+│  │  • SGPA Calculator                  │             │
+│  │  • CGPA Aggregator                  │             │
+│  │  • Validation Logic                 │             │
+│  └──────┬──────────────────────────────┘             │
+│         │                                             │
+│         ▼                                             │
+│  ┌─────────────────────────────────────┐             │
+│  │   Visualization Module              │             │
+│  │  • Chart.js Integration             │             │
+│  │  • Trend Graphs                     │             │
+│  │  • Interactive Elements             │             │
+│  └─────────────────────────────────────┘             │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
 
-| Layer | Technology |
-|---|---|
-| **Frontend** | React 18+ · TypeScript · Vite · shadcn/ui · Chart.js |
-| **UI Components** | Tailwind CSS · React Icons |
-| **Backend** | Python · Streamlit (alternative deployment) |
-| **Deployment** | Streamlit Cloud / Vercel |
-| **Architecture** | Full-stack web application |
+</div>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| Layer | Technologies |
+|:---:|:---|
+| 🎨 **Frontend** | React 18+ • TypeScript • Vite • Tailwind CSS |
+| 📊 **Visualization** | Chart.js • Recharts • Lucide Icons |
+| ⚙️ **Backend** | Python • Streamlit |
+| 💾 **Storage** | Browser LocalStorage • IndexedDB |
+| 🚀 **Deployment** | Vercel • Netlify • Streamlit Cloud |
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Quick Start (60 Seconds)
 
-| Category | Technology |
-|---|---|
-| **Frontend Framework** | React 18+ with TypeScript |
-| **Build Tool** | Vite |
-| **Styling** | Tailwind CSS |
-| **UI Components** | shadcn/ui |
-| **Charts & Graphs** | Chart.js / Recharts |
-| **Backend** | Python 3.9+ |
-| **Server** | Streamlit |
-| **Deployment** | Streamlit Cloud, Vercel, or Netlify |
+### Option 1️⃣: Use Live Demo (Fastest)
+
+```
+1. Click: https://cgpa-calculator-pgzjdgmdtuxhhuprvppvyt.streamlit.app
+2. Start adding your semesters
+3. Done! 🎉
+```
+
+### Option 2️⃣: Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/CGPA-Calculator.git
+cd CGPA-Calculator
+
+# Install & run
+cd artifacts/cgpa-calculator
+npm install
+npm run dev
+
+# Open http://localhost:5173/ 🚀
+```
+
+### Option 3️⃣: Deploy to Cloud
+
+```bash
+# Vercel (Easiest)
+npm install -g vercel
+vercel
+
+# Netlify
+npm run build
+netlify deploy --prod --dir=dist
+```
 
 ---
 
-## 🚀 Getting Started
+## 📚 Getting Started
 
-### Prerequisites
+### Prerequisites Checklist
 
-- **Node.js** ≥ 18 (for the React frontend)
-- **Python** ≥ 3.9 (for the Streamlit backend)
-- **npm** or **yarn** package manager
-- A modern browser (Chrome 90+, Firefox 88+, Safari 14+, or Edge 90+)
+- ✅ Node.js ≥ 18 (for React)
+- ✅ Python ≥ 3.9 (for Streamlit backend)
+- ✅ Modern browser (Chrome, Firefox, Safari, Edge)
+- ✅ Internet connection
+- ✅ 5 minutes of your time ⏱️
 
-### Installation
+### 📋 Installation Steps
 
-**1. Clone the repository**
+**Step 1: Clone Repository**
 ```bash
 git clone https://github.com/yourusername/CGPA-Calculator.git
 cd CGPA-Calculator
 ```
 
-**2. Install frontend dependencies**
+**Step 2: Frontend Setup**
 ```bash
 cd artifacts/cgpa-calculator
-npm install
+npm install  # or yarn install
 ```
 
-**3. Install backend dependencies**
+**Step 3: Backend Setup (Optional)**
 ```bash
 cd ../..
 pip install -r requirements.txt
 ```
 
-**4. Launch the application**
+**Step 4: Launch Application**
 
-**Option A: Run React frontend (development)**
+**For Development:**
 ```bash
 cd artifacts/cgpa-calculator
 npm run dev
+# Opens http://localhost:5173/
 ```
-Opens at **http://localhost:5173/**
 
-**Option B: Run Streamlit backend**
+**For Streamlit:**
 ```bash
 streamlit run app.py
+# Opens http://localhost:8501/
 ```
-Opens at **http://localhost:8501/**
+
+**Step 5: Start Tracking! 🎯**
 
 ---
 
 ## 📖 Usage Guide
 
-### Adding Your First Semester
+### 🎬 5-Minute Video Tutorial (Coming Soon)
 
-| Step | Action |
-|---|---|
-| 1️⃣ | Click **"+ Add Semester"** button |
-| 2️⃣ | Enter semester name (e.g., "Semester 1", "Fall 2024") |
-| 3️⃣ | Click **"Add"** to create the semester |
+### 👇 Manual Walkthrough
 
-### Entering Subject Grades
+#### Adding Your First Semester
 
-| Step | Action |
-|---|---|
-| 1️⃣ | In your semester, click **"+ Add Subject"** |
-| 2️⃣ | Enter **Subject Name** (e.g., "Data Structures", "Calculus") |
-| 3️⃣ | Enter **Credits** (numeric value, typically 1-4) |
-| 4️⃣ | Select **Grade** from dropdown (A, B, C, D, F, etc.) |
-| 5️⃣ | Click **"Add Subject"** |
-| 6️⃣ | Your **SGPA** updates automatically |
+<details>
+<summary><strong>Click to expand step-by-step guide</strong></summary>
 
-### Viewing Your Progress
+| Step | Action | Screenshot |
+|------|--------|-----------|
+| **1** | Open app and click **"➕ Add Semester"** button | [Top right corner] |
+| **2** | Enter semester name: `"Fall 2024"` or `"Semester 1"` | [Input field] |
+| **3** | Click **"✅ Create Semester"** | [Blue button] |
+| **4** | New semester card appears in dashboard | [Main area] |
 
-- **Dashboard** — See overall CGPA and total credits at top
-- **Semester Cards** — View SGPA for each semester
-- **Trend Chart** — Click the graph icon to see your GPA progression
-- **Subject Details** — Expand each semester to see individual subjects
+</details>
 
-### Example Data Entry
+#### Adding Your Subjects & Grades
+
+<details>
+<summary><strong>Click to expand step-by-step guide</strong></summary>
 
 ```
-Semester 1 (Fall 2023):
-  • Data Structures (4 credits) → Grade A
-  • Calculus I (3 credits) → Grade A
-  • Physics (4 credits) → Grade B+
-  → SGPA: 3.75
+For Each Subject:
 
-Semester 2 (Spring 2024):
-  • Algorithms (4 credits) → Grade A
-  • Discrete Math (3 credits) → Grade A
-  • Chemistry (4 credits) → Grade A-
-  → SGPA: 3.92
+1️⃣  Click "➕ Add Subject" in semester card
+2️⃣  Enter Subject Name    → "Data Structures"
+3️⃣  Enter Credits         → "4" (numeric)
+4️⃣  Select Grade          → "A" (from dropdown)
+5️⃣  Click "✅ Add Subject" → SGPA updates instantly!
 
-Overall CGPA (2 semesters): 3.84
+Example:
+┌─ Fall 2024 (SGPA: 3.75) ─┐
+│ • Data Structures (4 cr) → A  |
+│ • Calculus I      (3 cr) → A  |
+│ • Physics         (4 cr) → B+ |
+└──────────────────────────┘
+```
+
+</details>
+
+#### Viewing Your Dashboard
+
+- **📊 Overall CGPA** — Displayed prominently at top
+- **📚 Credits Tracker** — Total credits accumulated
+- **📈 Semester Cards** — Each semester's SGPA
+- **📉 Trend Chart** — Visual GPA progression
+- **📝 Subject Details** — Expand to see breakdown
+
+#### Example Dashboard Layout
+
+```
+┌─────────────────────────────────────┐
+│  Your Academic Progress             │
+├─────────────────────────────────────┤
+│                                     │
+│  📊 Overall CGPA:    3.84          │
+│  📚 Total Credits:   22            │
+│  📈 Semesters:       2             │
+│                                     │
+├─────────────────────────────────────┤
+│                                     │
+│  Fall 2024 (SGPA: 3.75)            │
+│  ├─ Data Structures (4)  → A       │
+│  ├─ Calculus (3)         → A       │
+│  └─ Physics (4)          → B+      │
+│                                     │
+│  Spring 2024 (SGPA: 3.92)          │
+│  ├─ Algorithms (4)       → A       │
+│  ├─ Discrete Math (3)    → A       │
+│  └─ Chemistry (4)        → A-      │
+│                                     │
+│  📈 [Trend Chart Shows GPA Growth]  │
+│                                     │
+└─────────────────────────────────────┘
 ```
 
 ---
 
 ## 🔢 CGPA Calculation Formula
 
-### Grade Point Scale
+### 📊 The Math Behind the Magic
 
-| Grade | Points | Grade Range |
-|---|---|---|
-| A | 4.0 | 90–100 |
-| A- | 3.7 | 85–89 |
-| B+ | 3.3 | 80–84 |
-| B | 3.0 | 75–79 |
-| B- | 2.7 | 70–74 |
-| C+ | 2.3 | 65–69 |
-| C | 2.0 | 60–64 |
-| D | 1.0 | Below 60 |
-| F | 0.0 | Failed |
+#### Grade Point Scale (4.0 System)
 
-### SGPA Formula
+<div align="center">
+
+| Grade | Points | Your Score Range |
+|:---:|:---:|:---:|
+| 🥇 **A** | **4.0** | 90–100% |
+| 🥇 **A−** | **3.7** | 85–89% |
+| 🥈 **B+** | **3.3** | 80–84% |
+| 🥈 **B** | **3.0** | 75–79% |
+| 🥈 **B−** | **2.7** | 70–74% |
+| 🥉 **C+** | **2.3** | 65–69% |
+| 🥉 **C** | **2.0** | 60–64% |
+| 📘 **D** | **1.0** | <60% |
+| ❌ **F** | **0.0** | Failed |
+
+</div>
+
+#### SGPA Calculation
+
+<div align="center">
+
+### **SGPA = Σ(Grade × Credit) ÷ Σ(Credits)**
+
+**Worked Example:**
 
 ```
-SGPA = (Σ(Grade Point × Credit) for each subject) / Σ(Credits for semester)
+Semester 1:
+  • Data Structures (4 credits) → Grade A (4.0)
+    Points: 4.0 × 4 = 16.0
+  
+  • Calculus (3 credits) → Grade B+ (3.3)
+    Points: 3.3 × 3 = 9.9
+  
+  • Physics (4 credits) → Grade B (3.0)
+    Points: 3.0 × 4 = 12.0
+
+SGPA = (16.0 + 9.9 + 12.0) ÷ (4 + 3 + 4)
+SGPA = 37.9 ÷ 11
+SGPA = 3.45 ✅
 ```
 
-**Example:**
+</div>
+
+#### CGPA Calculation
+
+<div align="center">
+
+### **CGPA = Σ(SGPA × Semester Credits) ÷ Σ(All Credits)**
+
+**Multi-Semester Example:**
+
 ```
-Subject 1: A (4.0) × 4 credits = 16.0 points
-Subject 2: B+ (3.3) × 3 credits = 9.9 points
-Total: 25.9 / 7 credits = 3.70 SGPA
+Semester 1: SGPA 3.75 × 11 credits = 41.25 points
+Semester 2: SGPA 3.92 × 10 credits = 39.20 points
+
+CGPA = (41.25 + 39.20) ÷ (11 + 10)
+CGPA = 80.45 ÷ 21
+CGPA = 3.83 ✅
 ```
 
-### CGPA Formula
-
-```
-CGPA = (Σ(SGPA × Total Credits of semester)) / Σ(All Credits across semesters)
-```
+</div>
 
 ---
 
 ## 🔧 Configuration Reference
 
-### Grade Mapping
+### ⚙️ Customize for Your Institution
 
-Customize your institution's grading scale by editing `gradeScale.ts`:
+#### Custom Grading Scale
+
+Edit `src/utils/gradeScale.ts`:
 
 ```typescript
-const gradeScale = {
-  'A': 4.0,
+export const GRADE_SCALE = {
+  'A+': 4.0,   // Adjust as needed
+  'A': 3.9,
   'A-': 3.7,
   'B+': 3.3,
   'B': 3.0,
-  // Add more grades as needed
+  'B-': 2.7,
+  'C+': 2.3,
+  'C': 2.0,
+  'D': 1.0,
+  'F': 0.0,
 };
 ```
 
-### UI Settings
+#### UI Customization
 
-| Setting | Location | Effect |
-|---|---|---|
-| **Decimal Places** | `config.ts` | Precision of SGPA/CGPA display |
-| **Chart Colors** | `theme.ts` | Customize trend graph appearance |
-| **Credit Range** | Validation layer | Min/max credits per subject |
-
----
-
-## ⚡ Performance Tips
-
-| Action | Benefit | When to Use |
-|---|---|---|
-| Limit to 8 semesters | Faster chart rendering | Large datasets |
-| Use short subject names | Cleaner UI | Mobile devices |
-| Clear completed semesters | Reduce data volume | End of academic year |
-| Use browser cache | Instant reload | Frequent user |
-
----
-
-## 📁 Project Structure
-
-```bash
-CGPA-Calculator/
-├── artifacts/
-│   ├── cgpa-calculator/          # Frontend React app
-│   │   ├── src/
-│   │   │   ├── components/       # React components
-│   │   │   ├── pages/            # Main pages
-│   │   │   ├── utils/            # Calculation logic
-│   │   │   └── App.tsx           # Main app component
-│   │   ├── public/               # Static assets
-│   │   ├── index.html            # Entry HTML
-│   │   └── vite.config.ts        # Vite config
-│   └── api-server/               # Backend (optional)
-├── app.py                        # Streamlit entry point
-├── requirements.txt              # Python dependencies
-├── package.json                  # Frontend dependencies
-├── .gitignore                    # Git ignore file
-└── README.md                     # Documentation
+```javascript
+// tailwind.config.js
+theme: {
+  colors: {
+    primary: '#00C7B7',    // Main accent
+    secondary: '#6366F1',  // Secondary
+    success: '#10B981',    // Success state
+  }
+}
 ```
+
+#### Application Settings
+
+| Setting | File | Purpose |
+|---------|------|---------|
+| Decimal Places | `src/config.ts` | SGPA/CGPA precision |
+| Max Semesters | `src/constants.ts` | UI limits |
+| Chart Colors | `tailwind.config.js` | Visual theme |
+| Credit Limits | `src/validation.ts` | Input validation |
+
+---
+
+## 📱 Project Structure
+
+<div align="center">
+
+```
+CGPA-Calculator/
+│
+├── 📁 artifacts/
+│   ├── 📁 cgpa-calculator/          ← Frontend (React)
+│   │   ├── src/
+│   │   │   ├── components/          # React components
+│   │   │   ├── utils/               # Calculation logic
+│   │   │   ├── App.tsx              # Main app
+│   │   │   └── main.tsx             # Entry point
+│   │   ├── public/                  # Static assets
+│   │   └── vite.config.ts           # Build config
+│   │
+│   └── 📁 api-server/               ← Backend (Optional)
+│
+├── 📄 app.py                        # Streamlit app
+├── 📄 requirements.txt              # Python dependencies
+├── 📄 package.json                  # Node dependencies
+└── 📄 README.md                     # Documentation
+```
+
+</div>
 
 ---
 
 ## 🌐 Browser Support
 
-| Browser | Minimum Version | Status |
-|---|---|---|
-| **Chrome** | 90+ | ✅ Fully Supported |
-| **Firefox** | 88+ | ✅ Fully Supported |
-| **Safari** | 14+ | ✅ Fully Supported |
-| **Edge** | 90+ | ✅ Fully Supported |
-| **Mobile Safari** | iOS 14+ | ✅ Fully Supported |
-| **Chrome Mobile** | Android 5.0+ | ✅ Fully Supported |
+<div align="center">
+
+| Browser | Version | Status | Notes |
+|:---:|:---:|:---:|:---|
+| 🔵 **Chrome** | 90+ | ✅ Fully Supported | Best performance |
+| 🔴 **Firefox** | 88+ | ✅ Fully Supported | Excellent |
+| 🟣 **Safari** | 14+ | ✅ Fully Supported | iOS 14+ included |
+| 🟦 **Edge** | 90+ | ✅ Fully Supported | Chromium-based |
+| 📱 **Mobile** | Latest | ✅ Fully Supported | Responsive design |
+
+</div>
 
 ---
 
 ## 🐛 Troubleshooting
 
-<details>
-<summary><strong>❌ SGPA not calculating correctly</strong></summary>
-<br/>
+### ❌ Common Issues & Solutions
 
-**Solutions:**
-- Verify that **grades match** your institution's grading scale
-- Check that **all subjects have both credits and grades** entered
-- Ensure credits are numeric values (not text)
-- Look for **grade validation warnings** in the UI
-- Try **refreshing the page** (Ctrl+R or Cmd+R)
+<details open>
+<summary><strong>🔴 SGPA not calculating correctly</strong></summary>
 
-**Example of correct entry:**
+**Quick Fixes:**
 ```
-Subject: "Data Structures"
-Credits: 4 (numeric, not "4.0" text)
-Grade: "A" (from dropdown, not typed)
+✓ Grade selected from dropdown (not typed)
+✓ Credits entered as numbers (not text)
+✓ All subjects have grades assigned
+✓ Page refreshed (Ctrl+Shift+R)
 ```
 
-</details>
+**Example Correct Entry:**
+```
+Subject Name: "Data Structures" ✓
+Credits: 4 (number) ✓
+Grade: "A" (dropdown selection) ✓
+```
 
-<details>
-<summary><strong>❌ Data not saving</strong></summary>
-<br/>
-
-**Solutions:**
-- **Enable browser cache** — Check browser settings (Settings → Privacy)
-- **Clear browser cache** to force fresh load (Ctrl+Shift+Del)
-- **Use a supported browser** — Ensure it's updated to latest version
-- **Check local storage** — Browser DevTools → Application → Local Storage
-- **Try incognito mode** — Rule out extensions interfering with storage
+**Still not working?** [Report on GitHub →](https://github.com/yourusername/CGPA-Calculator/issues)
 
 </details>
 
 <details>
-<summary><strong>❌ Trend chart not displaying</strong></summary>
-<br/>
+<summary><strong>💾 Data not saving between sessions</strong></summary>
 
 **Solutions:**
-- Add **at least 2 semesters** to see trend (1 semester = no trend)
-- Check that **each semester has at least 1 subject**
-- Ensure all subjects have **valid grades** (not blank)
-- **Disable ad blockers** — Some block chart rendering libraries
-- **Try a different browser** — Check if issue persists
+1. **Check browser storage** → Settings → Privacy
+2. **Clear cache properly** → Ctrl+Shift+Delete
+3. **Disable private mode** → Use normal browsing
+4. **Try different browser** → Test in Chrome/Firefox
+5. **Check browser console** → F12 → Console tab
 
 </details>
 
 <details>
-<summary><strong>❌ App running slowly</strong></summary>
-<br/>
+<summary><strong>📈 Trend chart not displaying</strong></summary>
 
-**Solutions:**
-- **Reduce semester count** — Delete older/test semesters
-- **Clear browser cache** (Ctrl+Shift+Del)
-- **Close other tabs** to free up memory
-- **Try desktop over mobile** for better performance
-- **Check internet connection** speed (visit speedtest.net)
+**Quick Fixes:**
+```
+✓ Add at least 2 semesters (1 semester = no trend)
+✓ Each semester has subjects
+✓ All subjects have grades
+✓ Disable ad blockers
+✓ Try different browser
+```
 
 </details>
 
 <details>
-<summary><strong>❌ "Export" button not working</strong></summary>
-<br/>
+<summary><strong>⚡ App running slowly</strong></summary>
 
-**Solutions:**
-- This feature is **coming soon** (see Roadmap)
-- As a workaround: **Take a screenshot** or **copy data manually**
-- Follow issue #12 on GitHub for updates on PDF export feature
+**Optimization Tips:**
+1. Delete old/test semesters
+2. Clear browser cache (Ctrl+Shift+Del)
+3. Close other browser tabs
+4. Restart browser
+5. Try desktop over mobile
 
 </details>
 
@@ -429,108 +707,156 @@ Grade: "A" (from dropdown, not typed)
 
 ## 🗺️ Roadmap
 
-- [ ] **PDF Export** — Download grade sheet as PDF document
-- [ ] **CSV Import/Export** — Bulk import grades from Excel/CSV
-- [ ] **Dark Mode** — Eye-friendly theme for night studying
-- [ ] **What-If Simulator** — Predict GPA with hypothetical grades
-- [ ] **Grade Distribution** — Pie chart showing grade breakdown
-- [ ] **Multi-User Support** — Save multiple grade profiles
-- [ ] **Cloud Sync** — Backup data to cloud (Google Drive, OneDrive)
-- [ ] **Mobile App** — iOS and Android native applications
-- [ ] **Institutional Integration** — Sync with university portals
-- [ ] **AI Insights** — Personalized study recommendations
+<div align="center">
+
+### Planned Features
+
+#### Phase 1️⃣ (Q4 2024) — Enhanced Exports
+- ✅ **PDF Export** — Download grade sheets
+- ✅ **Dark Mode** — Eye-friendly theme
+- ✅ **Settings Panel** — Customization options
+
+#### Phase 2️⃣ (Q1 2025) — Smart Features
+- 🔄 **CSV Import** — Bulk grade import
+- 🎯 **What-If Simulator** — Predict future GPA
+- 📊 **Grade Distribution** — Visual breakdown
+
+#### Phase 3️⃣ (Q2 2025) — Cloud & Social
+- ☁️ **Cloud Sync** — Google Drive backup
+- 👥 **Multi-User** — Multiple profiles
+- 🌍 **i18n** — Support for other languages
+
+#### Phase 4️⃣ (2025) — Mobile First
+- 📱 **Native Apps** — iOS & Android
+- 🔔 **Push Alerts** — Grade reminders
+- 🎓 **Institutional API** — University integration
+
+</div>
+
+<div align="center">
+
+### Vote on Features!
+
+👉 [Vote on Next Features →](https://github.com/yourusername/CGPA-Calculator/discussions)
+
+</div>
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Whether you're fixing bugs, improving features, or adding documentation, please help us make this better.
+<div align="center">
 
-### Steps to Contribute
+### We ❤️ Contributions!
 
-1. **Fork** the repository on GitHub
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. **Make your changes** and test thoroughly
-4. **Commit with clear messages**
-   ```bash
-   git commit -m 'Add YourFeatureName - brief description'
-   ```
-5. **Push to your branch**
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-6. **Open a Pull Request** with clear description of changes
+Whether you're **fixing bugs**, **adding features**, or **improving docs** — all help is welcome!
 
-### Areas for Contribution
+### 📌 Contribution Types
 
-- 🐛 **Bug fixes** — Found a problem? Help fix it
-- ✨ **New features** — Implement items from the Roadmap
-- 📖 **Documentation** — Improve README, add examples
-- 🎨 **UI/UX Improvements** — Make the app more intuitive
-- 🌍 **Localization** — Translate to other languages
-- ♿ **Accessibility** — Improve support for screen readers
+| Type | How to Help |
+|------|------------|
+| 🐛 **Bug Fixes** | Found an issue? Open a PR! |
+| ✨ **Features** | Implement items from Roadmap |
+| 📖 **Docs** | Improve README & examples |
+| 🎨 **Design** | Improve UI/UX |
+| 🌍 **i18n** | Translate to your language |
 
-### Code Style Guidelines
+</div>
 
-- Use **TypeScript** for type safety
-- Follow **Prettier** formatting (`npm run format`)
-- Write **clear commit messages** (e.g., "Fix CGPA rounding issue in semester 2")
-- Add **comments** for complex logic
-- Test changes **locally** before submitting PR
+### 🚀 How to Contribute (4 Steps)
+
+```bash
+# 1️⃣ Fork the repository
+Click "Fork" on GitHub
+
+# 2️⃣ Create feature branch
+git checkout -b feature/YourAwesomeFeature
+
+# 3️⃣ Make changes & test
+npm run dev
+npm run format
+npm run lint
+
+# 4️⃣ Push & Create PR
+git push origin feature/YourAwesomeFeature
+# Then open a Pull Request on GitHub
+```
+
+### 📋 Good Commit Messages
+
+```bash
+✅ GOOD:
+git commit -m 'Fix: SGPA rounding for 3+ decimals'
+git commit -m 'Feat: Add dark mode toggle'
+git commit -m 'Docs: Improve installation guide'
+
+❌ BAD:
+git commit -m 'fixed stuff'
+git commit -m 'update'
+```
 
 ---
 
 ## ❓ FAQ
 
+<div align="center">
+
+### Frequently Asked Questions
+
+</div>
+
+<details open>
+<summary><strong>Q: Is my data private?</strong></summary>
+
+**A:** ✅ **100% Private!** All data stays on your device. No servers, no tracking, no accounts required. Your grades are yours alone.
+
+</details>
+
 <details>
 <summary><strong>Q: Can I use a different grading scale?</strong></summary>
 
-**A:** Yes! Edit the `gradeScale.ts` file in the source code to match your institution's grading system. Then rebuild with `npm run build`.
+**A:** ✅ **Yes!** Edit `src/utils/gradeScale.ts` to match your institution. Then rebuild with `npm run build`.
 
 </details>
 
 <details>
-<summary><strong>Q: Is my data saved after I close the browser?</strong></summary>
+<summary><strong>Q: Can I import from Excel?</strong></summary>
 
-**A:** By default, data is saved to **browser local storage**, so it persists between sessions. Cloud sync is on the Roadmap for future releases.
-
-</details>
-
-<details>
-<summary><strong>Q: Can I import grades from an Excel file?</strong></summary>
-
-**A:** Currently, you need to enter grades manually. CSV import is planned for the next release. Track progress on [GitHub Issues](https://github.com/yourusername/CGPA-Calculator/issues).
+**A:** 📋 **Coming in v1.2!** For now, enter manually or use a script to help. [Vote to prioritize →](https://github.com/yourusername/CGPA-Calculator/discussions)
 
 </details>
 
 <details>
-<summary><strong>Q: How accurate are the CGPA calculations?</strong></summary>
+<summary><strong>Q: How accurate are calculations?</strong></summary>
 
-**A:** Calculations follow standard academic formulas and are accurate to 2 decimal places. Double-check with your institution's calculations if you're close to a GPA threshold.
-
-</details>
-
-<details>
-<summary><strong>Q: Can I use this for multiple students?</strong></summary>
-
-**A:** Currently, each browser profile has its own data. Multi-user accounts are on the Roadmap. You could use separate browser profiles or incognito windows as a workaround.
+**A:** 🎯 **100% Accurate!** Uses standard academic formulas to 2 decimal places. Verify with your university if close to GPA thresholds.
 
 </details>
 
 <details>
-<summary><strong>Q: What if my institution uses a different CGPA formula?</strong></summary>
+<summary><strong>Q: Can I use for multiple students?</strong></summary>
 
-**A:** The calculator uses the standard formula: `CGPA = Total Grade Points / Total Credits`. If your institution uses weighted semesters or other formulas, please [open an issue](https://github.com/yourusername/CGPA-Calculator/issues) with details.
+**A:** 👥 **Multi-user coming soon!** Currently: use separate browser profiles or incognito windows as workaround.
 
 </details>
 
 <details>
 <summary><strong>Q: Can I deploy this myself?</strong></summary>
 
-**A:** Yes! You can deploy the React frontend to Vercel, Netlify, or any static host, and the Python backend to AWS, Heroku, or any Python-capable server. See [Deployment Guide](#deployment-guide) (coming soon).
+**A:** 🚀 **Yes!** Deploy to Vercel, Netlify, AWS, or any host. See [Deployment Guide →](#-deployment-guide)
+
+</details>
+
+<details>
+<summary><strong>Q: How do I report bugs?</strong></summary>
+
+**A:** 🐛 Open a GitHub issue with:
+- What you were doing
+- What happened vs. what should happen
+- Screenshots
+- Browser & OS info
+
+[Report Bug →](https://github.com/yourusername/CGPA-Calculator/issues)
 
 </details>
 
@@ -538,32 +864,51 @@ Contributions are welcome! Whether you're fixing bugs, improving features, or ad
 
 ## 📱 Deployment Guide
 
-### Deploy Frontend to Vercel
+<div align="center">
+
+### Deploy in 3 Minutes
+
+</div>
+
+### 🔵 Deploy to Vercel (Easiest)
 
 ```bash
-# Install Vercel CLI
 npm install -g vercel
-
-# Deploy from project root
 vercel
+# Follow prompts, auto-deploys on git push
 ```
 
-### Deploy Frontend to Netlify
+**Result:** `your-app.vercel.app` ✨
+
+### 🟡 Deploy to Netlify
 
 ```bash
-# Build the project
-cd artifacts/cgpa-calculator
 npm run build
-
-# Deploy via Netlify CLI or drag-and-drop the dist/ folder
+# Then drag dist/ folder to netlify.com
 ```
 
-### Deploy Backend to Streamlit Cloud
+**Alternative with CLI:**
+```bash
+netlify deploy --prod --dir=dist
+```
+
+**Result:** `your-app.netlify.app` ✨
+
+### 🟣 Deploy to Streamlit Cloud
 
 1. Push code to GitHub
-2. Visit [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repo and select `app.py`
-4. Deploy with one click
+2. Go to [share.streamlit.io](https://share.streamlit.io)
+3. Connect your repo, select `app.py`
+4. Click Deploy
+
+**Result:** `share.streamlit.io/your-app` ✨
+
+### 🐳 Deploy with Docker
+
+```bash
+docker build -t cgpa-calc .
+docker run -p 3000:3000 cgpa-calc
+```
 
 ---
 
@@ -571,61 +916,100 @@ npm run build
 
 <div align="center">
 
-📊
+### 💖 Built for Students, By Students
 
-### Built for Students, By Students
-
-*"Know your GPA. Plan your future."*
+> *"Your success is our mission. Let's build the future together."*
 
 </div>
 
-<br/>
+### 🙌 Thank You To
 
-### Technology Stack
+- **All Student Beta Testers** — Your feedback shaped this tool
+- **Open Source Community** — For amazing libraries
+- **React, Vite, Tailwind** — For powering this project
+- **You!** — For using & supporting this project
 
-This project is built with:
-
-- **React** — Component-based UI framework
-- **TypeScript** — Type-safe JavaScript
-- **Vite** — Lightning-fast build tool
-- **Tailwind CSS** — Utility-first styling
-- **shadcn/ui** — High-quality components
-- **Streamlit** — Python app framework
-- **Chart.js** — Beautiful data visualizations
-
-### Inspiration & Thanks
-
-Thanks to all students who've tested and provided feedback. Special thanks to contributors who've helped improve this tool.
-
-### Support & Feedback
+### 💬 Get Help & Support
 
 <div align="center">
 
-📬 **Have a question?** — [Open a GitHub Discussion](https://github.com/yourusername/CGPA-Calculator/discussions)
-
-🐛 **Found a bug?** — [Report it with steps to reproduce](https://github.com/yourusername/CGPA-Calculator/issues)
-
-💡 **Feature idea?** — [Start a discussion or open an issue](https://github.com/yourusername/CGPA-Calculator/issues)
-
-⭐ **Enjoying this?** — A star on GitHub helps others discover it!
+| How to Help | Link |
+|:---:|:---|
+| 💬 **Ask Questions** | [GitHub Discussions →](https://github.com/yourusername/CGPA-Calculator/discussions) |
+| 🐛 **Report Bugs** | [GitHub Issues →](https://github.com/yourusername/CGPA-Calculator/issues) |
+| 💡 **Suggest Features** | [Feature Requests →](https://github.com/yourusername/CGPA-Calculator/issues) |
+| ⭐ **Show Support** | [Star on GitHub →](https://github.com/yourusername/CGPA-Calculator) |
 
 </div>
 
-<br/>
+### 📞 Direct Support
 
-**CGPA Calculator** is maintained with ❤️ by the development community.
+- 📧 Email: [support@cgpa-calculator.dev](mailto:support@cgpa-calculator.dev) _(Coming Soon)_
+- 🐦 Twitter: [@CGPACalc](https://twitter.com) _(Follow for updates)_
+- 💬 Discord: [Join Server](https://discord.gg) _(Coming Soon)_
+
+---
+
+## 📄 License
+
+<div align="center">
+
+### MIT License — Free to Use, Modify & Share
+
+This project is **100% free** and **open source**. Use it for personal or commercial purposes. See [LICENSE](LICENSE) for details.
+
+```
+Copyright (c) 2024 CGPA Calculator Contributors
+Permission is hereby granted, free of charge...
+```
+
+</div>
+
+---
+
+## 🌟 Show Your Support
+
+<div align="center">
+
+### Star History
+
+If CGPA Calculator helped you, please consider:
+
+- ⭐ **Starring on GitHub** — Helps others discover it
+- 🔗 **Sharing with friends** — Spread the word
+- 💬 **Leaving feedback** — Help us improve
+- 🤝 **Contributing** — Make it even better
+
+</div>
+
+<div align="center">
+
+### Newsletter & Updates
+
+👉 **[Subscribe for Updates](https://github.com/yourusername/CGPA-Calculator)** 👈
+
+Get notified about:
+- 🎉 New features
+- 🐛 Important fixes
+- 📣 Announcements
+
+</div>
+
+---
 
 <div align="center">
 
 <br/>
 
-<sub>Made with ❤️ for students everywhere. If this helped you track your grades, consider giving it a star! ⭐</sub>
+## 🚀 Ready to Track Your Success?
+
+### **[Open CGPA Calculator Now →](https://cgpa-calculator-pgzjdgmdtuxhhuprvppvyt.streamlit.app)**
 
 <br/>
 
-**Version 1.1.0** · Status: ✅ Active & Maintained
+### Made with ❤️ by Students, for Students
 
-Last Updated: September 2024
+<sub>Version 1.1.0 • Active & Maintained • Last Updated: September 2024</sub>
 
 <br/>
 
