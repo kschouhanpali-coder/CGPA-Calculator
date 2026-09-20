@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-GPA%20Tracker-00C7B7?style=for-the-badge)
 
-A clean, fast web app for students to log subjects, credits, and grades, and instantly see their SGPA, overall CGPA, and semester-by-semester trends with clear visualizations.
+A clean, fast web app for students to log subjects, credits, and grades, and instantly see their SGPA, overall CGPA (out of 10), and semester-by-semester trends with clear visualizations.
 
 *The modern GPA tracking tool for ambitious students.*
 
@@ -34,7 +34,7 @@ A clean, fast web app for students to log subjects, credits, and grades, and ins
 - ⚡ **Real-Time Calculations** - SGPA and CGPA update as you enter data
 - 🎯 **2-Decimal Precision** - Standard academic formulas
 - 📚 **Semester Management** - Add semesters, then log subjects with credits and grades
-- 🎓 **4.0 Grading Scale** - With customizable grade mappings for your institution
+- 🎓 **10-Point Grading Scale** - Grades from O (10) down to F (0), with customizable mappings for your institution
 - 📈 **Trend Chart** - See your GPA progress semester by semester
 - 📝 **Subject Breakdown** - Expand any semester to review its subjects
 - 🔢 **Credits Tracker** - Total credits accumulated at a glance
@@ -92,11 +92,11 @@ streamlit run app.py
 | **SGPA** | Σ(Grade Points × Credits) ÷ Σ(Credits) |
 | **CGPA** | Σ(SGPA × Semester Credits) ÷ Σ(All Credits) |
 
-### Default Grade Scale (4.0)
+### Default Grade Scale (10-Point)
 
-| Grade | A | A− | B+ | B | B− | C+ | C | D | F |
-|-------|---|----|----|---|----|----|---|---|---|
-| **Points** | 4.0 | 3.7 | 3.3 | 3.0 | 2.7 | 2.3 | 2.0 | 1.0 | 0.0 |
+| Grade | O | A+ | A | B+ | B | C | P | F |
+|-------|---|----|---|----|---|---|---|---|
+| **Points** | 10 | 9 | 8 | 7 | 6 | 5 | 4 | 0 |
 
 > The scale can be changed to match your institution's grading system.
 
